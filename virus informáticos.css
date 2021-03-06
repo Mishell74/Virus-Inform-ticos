@@ -1,0 +1,17 @@
+p{
+    color: rgb(9, 10, 10);
+}
+
+h1{
+    color:#4b1111;
+}
+
+label{
+    background-color: rgb(242, 255, 57);
+    color:rgb(255, 136, 136);
+    border: 10px solid rgb(95, 17, 17);
+}
+
+body{
+    background-color: rgb(255, 167, 255);
+}
